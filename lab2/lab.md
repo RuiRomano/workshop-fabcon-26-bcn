@@ -261,6 +261,13 @@ Writing documentation from scratch and keeping it current both take time. AI can
 
 	![vscode-copilot-chat-auto-pilot](resources/img/vscode-copilot-chat-auto-pilot.png)
 
+	**Interactive vs. Autopilot**
+
+	- **Interactive:** The agent pauses for your approval or input as it works. For example: `Agent → action → ask you → Agent → action → ask you`. You can inspect each tool call before it runs.
+	- **Autopilot:** The agent keeps working through the task, including retries and validation, without stopping at each approval or question. For example: `Agent → action → action → error → fix → action → validate → done`.
+
+	Both modes still need you to review the final documentation and changes. **Allow all** removes tool approval prompts, but is not the same as switching to Autopilot mode.
+
 > [!IMPORTANT]
 > **Autopilot** is an agent mode, not a permission level. It lets the agent work autonomously until the task is complete by auto-approving tools, retrying errors, and answering questions that would otherwise block progress. **Allow all** and **Autopilot** skip confirmation for potentially destructive actions, including file edits, terminal commands, and external tool calls. Use Autopilot or Allow All only in a trusted workspace and when you understand the security implications. For details, see [How Autopilot works](https://code.visualstudio.com/docs/agents/run/approvals#_how-autopilot-works).
 
