@@ -82,7 +82,7 @@ We will provide a GitHub Copilot license for the workshop. You can use your own 
 To request a GitHub Copilot license for the workshop:
 
 1. Open a browser and authenticate with a **personal GitHub account**. Enterprise Managed User accounts won't work. If you don't have a personal account, [sign up for GitHub](https://github.com/signup).
-2. Open the [GitHub Copilot self-signup](https://polite-glacier-0ea2cfe0f.7.azurestaticapps.net/#token=eyJ2IjoyLCJpc3N1ZSI6NTc0LCJvcmciOiJoYWNrYXRob24tcGluay1maXNoLTM2IiwiZXZlbnQiOiJGYWJjb24gRXVyb3BlIDI2IC0gUG93ZXIgQkkgTWVldHMgQWdlbnRpYyBBSSIsImRhdGUiOiIyMDI2LTA5LTI4Iiwib3JnYW5pemVycyI6WyJydWlyb21hbm8iXSwiZXhwIjoxNzkwODEyODAwfQ.5ee-eZ9mhO0T1zqN8At0b-FX7RsO3QkZpFxlwmlgRM8) and select **Sign in with GitHub**.
+2. Open the [GitHub Copilot self-signup](https://forms.cloud.microsoft/r/AaJCQCKwAZ) and select **Sign in with GitHub**.
 
    ![gh-license-self-sign-up](resources/img/gh-license-self-sign-up.png)
 
