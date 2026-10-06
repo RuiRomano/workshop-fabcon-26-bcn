@@ -2,6 +2,9 @@
 
 If you have access before the workshop, complete these prerequisites one or two days in advance because new software versions might be available. Otherwise, you can complete them on the day of the workshop.
 
+> [!WARNING]
+> The provided Fabric tenant accounts and GitHub Copilot licenses are only available to on-site workshop participants. To complete the workshop at home, you must use your own Fabric tenant and GitHub Copilot license.
+
 ## Technical knowledge
 
 Participants should have practical Power BI experience. No prior knowledge of agentic development, GitHub Copilot, or MCP servers is required.
@@ -82,7 +85,7 @@ We will provide a GitHub Copilot license for the workshop. You can use your own 
 To request a GitHub Copilot license for the workshop:
 
 1. Open a browser and authenticate with a **personal GitHub account**. Enterprise Managed User accounts won't work. If you don't have a personal account, [sign up for GitHub](https://github.com/signup).
-2. Open the [GitHub Copilot self-signup](https://forms.cloud.microsoft/r/AaJCQCKwAZ) and select **Sign in with GitHub**.
+2. Open the [GitHub Copilot self-signup](#) and select **Sign in with GitHub**.
 
    ![gh-license-self-sign-up](resources/img/gh-license-self-sign-up.png)
 
